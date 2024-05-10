@@ -82,7 +82,7 @@ body {
     margin-right: 20px;
 }
 
-.social-btn img:hover, .share-btn1:hover, .share-btn2:hover, .share-btn_desk:hover {
+.social-btn img:hover, .social-btn_desk img:hover, .share-btn1:hover, .share-btn2:hover, .share-btn_desk:hover {
     cursor: pointer;
 }
 
